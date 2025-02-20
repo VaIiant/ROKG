@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'ROKG';
+    src: url('https://github.com/VaIiant/ROKG/raw/refs/heads/main/ROKG_R.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* 웹폰트 적용 */
+body {
+    font-family: 'ROKG', sans-serif;
+}
